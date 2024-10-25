@@ -4,14 +4,6 @@
 
 This repository contains the code and results for implementing and experimenting with several **Support Vector Machine (SVM)** algorithms. 
 
-The project is designed to develop:
-1. A deeper understanding of the primal and dual formulations of SVMs.
-2. Skills to implement machine learning algorithms from scratch.
-3. Experience in applying SVMs to solve classification tasks.
-4. The ability to read and implement ideas from research papers.
-
-## Project Tasks
-
 ### Part 1: Primal SVM with Stochastic Gradient Descent (SGD)
 - **Objective:** Implement a soft-margin SVM using the primal formulation and SGD for training.
 - **Implementation:** `PrimalSVM` class with `fit`, `predict`, and `__init__` methods.

@@ -23,7 +23,7 @@ This repository contains the code and results for implementing and experimenting
 - **Objective:** Implement the SMO algorithm for SVMs with different kernels.
 - **Experiment:** Train the SMO-based SVM on the **fashion MNIST** dataset and compare results using different heuristic selection functions.
 
-## Code Structure
+## Files Structure
 
 - **`SVM Implementation.ipynb`**: Contains the full implementation of the SVM algorithms, including all four tasks mentioned above.
 - **`train.csv`**: Training dataset.

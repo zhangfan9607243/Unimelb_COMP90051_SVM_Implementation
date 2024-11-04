@@ -1,5 +1,8 @@
 # Unimelb Comp90051 SVM Implementation
 
+## Acknowledgements
+I would like to express my gratitude to the Unimelb COMP90051 2022S2 teaching team for providing the code framework that facilitated my work on this project.
+
 ## Project Introduction
 
 This repository contains the code and results for implementing and experimenting with several **Support Vector Machine (SVM)** algorithms. 
